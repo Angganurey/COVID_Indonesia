@@ -114,4 +114,5 @@
 
 
 #KONTRIBUTOR
-* Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* Masukkan Nama Kontributor Disini dengan format [angga_nurey](https://www.linkedin.com/in/angga-nurey-4633581a6
+)
